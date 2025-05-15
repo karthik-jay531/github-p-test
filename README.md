@@ -1,7 +1,7 @@
 # github-p-test
 practicing github basics
 
-## quick local edit to merge
+## quick intro - edited on github and locally
 Hello, I am learning the basics of github rn
 
 ### merge test
